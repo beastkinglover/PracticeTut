@@ -1,5 +1,5 @@
 import java.util.*;
-
+// There might be some errors: I need to remove them.
 public class Annaa {      
       static boolean isAnagram(String a, String b) {
         if ((a == null || b == null) || (a.length() != b.length())) {
